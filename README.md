@@ -1,4 +1,4 @@
-# simple_microkernel
+# Clarnel 
 
 This project aims to create a simple operating system with its own kernel and it has its own very simple bootloader to laod the kernel
 
